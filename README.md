@@ -32,8 +32,17 @@ print('Hello' in cau_chao.split(','))
 print('H3llo' in cau_chao.split('.'))
 
 - Dung list de chua nhieu gia tri
-  numbers [1,2,3,4,5,6,7,8,9]
-  name {"Linhxinh", "Yenngo"}
+
+  numbers = [1,2,3,4,5,6,7,8,9]
+  numbers.append(10)
+  names = ["Linhxinh", "Yenngo"]
   print(numbers)
-  print(numbers.append]
-  print(name)
+  print(names)
+
+ - Cau lenh dieu kien if/elif/else
+age = 20
+
+if age > 14:
+ print('Bắt buộc phải có cccd')
+if age < 14:
+ print('Chưa cần thiết phải làm cccd')
