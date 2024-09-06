@@ -55,5 +55,5 @@ while i < 20:
 
 
 Family = ["lINH", "YEN", "HUYEN", 'SON']
-for giadinh in Family
+for giadinh in Family:
 print(giadinh)
