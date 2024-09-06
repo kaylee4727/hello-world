@@ -18,7 +18,7 @@ ten2 = "Yen"
 ten3 = "Son"
 ten4 = "Huyen"
 
-print(cau-chao-Japanese + ten1)
+print(cau-chao-Japanese + ten1 *3)
 print(cau-chao-Korean + ten2)
 print(cau-chao-English + ten3)
 print(cau-chao-Vietnamse + ten4)
