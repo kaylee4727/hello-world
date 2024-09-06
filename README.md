@@ -46,3 +46,14 @@ if age > 14:
  print('Bắt buộc phải có cccd')
 if age < 14:
  print('Chưa cần thiết phải làm cccd')
+
+ - Vòng lặp (For/while)
+i = 0
+while i < 20:
+ print('Treasure daebak')
+ i = i +1
+
+
+Family = ["lINH", "YEN", "HUYEN", 'SON']
+for giadinh in Family
+print(giadinh)
