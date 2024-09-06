@@ -8,17 +8,17 @@ This repository is for practicing the GitHub Flow...
 # About me
 - Name: Linh
 
-cau-chao-Japanese = "Konichiwa "
-cau-chao-Vietnamese = "Xin chao "
-cau-chao-Korean = "Annyeonghaseyo "
-cau-chao-English = "Hello "
+cau_chao_Japanese = "Konichiwa "
+cau_chao_Vietnamese = "Xin chao "
+cau_chao_Korean = "Annyeonghaseyo "
+cau_chao_English = "Hello "
 
 ten1 = "Linh"
 ten2 = "Yen"
 ten3 = "Son"
 ten4 = "Huyen"
 
-print(cau-chao-Japanese + ten1 *3)
-print(cau-chao-Korean + ten2)
-print(cau-chao-English + ten3)
-print(cau-chao-Vietnamse + ten4)
+print(cau_chao_Japanese + ten1 *3)
+print(cau_chao_Korean + ten2)
+print(cau_chao_English + ten3)
+print(cau_chao_Vietnamese + ten4)
