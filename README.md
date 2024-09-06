@@ -8,6 +8,7 @@ This repository is for practicing the GitHub Flow...
 # About me
 - Name: Linh
 
+# Pratice code 6/9/2024
 cau_chao_Japanese = "Konichiwa "
 cau_chao_Vietnamese = "Xin chao "
 cau_chao_Korean = "Annyeonghaseyo "
